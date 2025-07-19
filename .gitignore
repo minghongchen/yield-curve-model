@@ -1,0 +1,5 @@
+# Ignore virtual environment files
+env/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
